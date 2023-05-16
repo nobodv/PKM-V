@@ -1,0 +1,172 @@
+{
+  "hotkeys": [
+    {
+      "command": "workspace:undo-close-pane",
+      "chords": [
+        "C-KeyW",
+        "C-NumpadSubtract"
+      ]
+    },
+    {
+      "command": "workspace:previous-tab",
+      "chords": [
+        "C-KeyW",
+        "C-ArrowLeft"
+      ]
+    },
+    {
+      "command": "workspace:next-tab",
+      "chords": [
+        "C-KeyW",
+        "C-ArrowRight"
+      ]
+    },
+    {
+      "command": "workspace:goto-tab-1",
+      "chords": [
+        "C-KeyW",
+        "C-Numpad1"
+      ]
+    },
+    {
+      "command": "workspace:goto-tab-2",
+      "chords": [
+        "C-KeyW",
+        "C-Numpad2"
+      ]
+    },
+    {
+      "command": "workspace:goto-tab-3",
+      "chords": [
+        "C-KeyW",
+        "C-Numpad3"
+      ]
+    },
+    {
+      "command": "workspace:goto-tab-4",
+      "chords": [
+        "C-KeyW",
+        "C-Numpad4"
+      ]
+    },
+    {
+      "command": "workspace:goto-tab-5",
+      "chords": [
+        "C-KeyW",
+        "C-Numpad5"
+      ]
+    },
+    {
+      "command": "workspace:goto-tab-6",
+      "chords": [
+        "C-KeyW",
+        "C-Numpad6"
+      ]
+    },
+    {
+      "command": "workspace:goto-tab-7",
+      "chords": [
+        "C-KeyW",
+        "C-Numpad7"
+      ]
+    },
+    {
+      "command": "workspace:goto-tab-8",
+      "chords": [
+        "C-KeyW",
+        "C-Numpad8"
+      ]
+    },
+    {
+      "command": "workspace:goto-last-tab",
+      "chords": [
+        "C-KeyW",
+        "C-Numpad9"
+      ]
+    },
+    {
+      "command": "workspace:close-others",
+      "chords": [
+        "C-KeyW",
+        "C-Numpad0"
+      ]
+    },
+    {
+      "command": "workspace:close",
+      "chords": [
+        "C-KeyW",
+        "C-NumpadDecimal"
+      ]
+    },
+    {
+      "command": "workspace:new-tab",
+      "chords": [
+        "C-KeyW",
+        "C-NumpadAdd"
+      ]
+    },
+    {
+      "command": "hotkeysplus-obsidian:clear-current-line",
+      "chords": [
+        "C-KeyL",
+        "C-KeyX"
+      ]
+    },
+    {
+      "command": "hotkeysplus-obsidian:insert-line-above",
+      "chords": [
+        "C-KeyL",
+        "C-Equal"
+      ]
+    },
+    {
+      "command": "hotkeysplus-obsidian:insert-line-below",
+      "chords": [
+        "C-KeyL",
+        "C-Minus"
+      ]
+    },
+    {
+      "command": "hotkeysplus-obsidian:toggle-bullet-number",
+      "chords": [
+        "C-KeyL",
+        "C-Digit0"
+      ]
+    },
+    {
+      "command": "editor:swap-line-down",
+      "chords": [
+        "C-KeyL",
+        "C-PageDown"
+      ]
+    },
+    {
+      "command": "editor:swap-line-up",
+      "chords": [
+        "C-KeyL",
+        "C-PageUp"
+      ]
+    },
+    {
+      "command": "outline:open",
+      "chords": [
+        "C-KeyL",
+        "C-KeyO"
+      ]
+    },
+    {
+      "command": "editor:unindent-list",
+      "chords": [
+        "C-KeyL",
+        "C-Home"
+      ]
+    },
+    {
+      "command": "editor:indent-list",
+      "chords": [
+        "C-KeyL",
+        "C-End"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+- Information to study (basics culture) :
+	 - [Information sur l'education Roumanie-France]((2023-05-08_22_09)Info-education_Ro-Fr.md)
+ - Preparation for event
+	 - [Nice students coming to Romania](Les_eleves_Nice_en_Roumanie<-Eras(2023-05-09_19_36))

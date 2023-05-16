@@ -1,0 +1,2 @@
+![Reglement reporters d'espoirs (partie interressante)](Reglement%20reporters%20d'espoirs%20(partie%20interressante).png)
+Au-dessus se trouve un tiers du règlements; Celui-ci pose les bases sur lequel fonder le projet.

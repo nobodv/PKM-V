@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"1ec263f63d60b047","x":12,"y":15,"width":250,"height":60,"type":"text","text":"The pig head on the stick"},
+		{"id":"2a6ed6c1469da5e9","x":69,"y":169,"width":271,"height":111,"type":"text","text":"Piggy, is the last one who kept his uniform until he died"},
+		{"id":"dec65800e62df514","x":398,"y":188,"width":250,"height":60,"type":"text","text":"After his dead, the end start, it become wild"},
+		{"id":"52ef310df2d16673","x":463,"y":43,"width":250,"height":60,"type":"text","text":"When the learn about a fictive monster , they beacme monsters "},
+		{"id":"c0ea7db4822986e8","x":244,"y":-123,"width":250,"height":60,"type":"text","text":"The group who charged to keep the fire light went hunting and at the time an helicopter pass, missing them."}
+	],
+	"edges":[
+		{"id":"6779f54fba0a04fb","fromNode":"2a6ed6c1469da5e9","fromSide":"right","toNode":"dec65800e62df514","toSide":"left"}
+	]
+}

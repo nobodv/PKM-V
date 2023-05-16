@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "215dbfa150184703",
+    "type": "split",
+    "children": [
+      {
+        "id": "cef2966c07f0d192",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c24518f85b689669",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "61425f7677308277",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/0.Home/0.Home.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3de3c5707cb31755",
+    "type": "split",
+    "children": [
+      {
+        "id": "61a7892584253d87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47eb8e18710309c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5e76bf915bcb5912",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7e13ee81d5a3277e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "be7de02d6d0ef53f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "38401edbf234d4db",
+    "type": "split",
+    "children": [
+      {
+        "id": "f46f4c99a896b0ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5aa2772ac8ff0905",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vault/0.Home/0.Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4bc2ec9b290e653e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vault/0.Home/0.Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5601d534ecc0bfde",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3def7ffe71063ba8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vault/0.Home/0.Home.md"
+              }
+            }
+          },
+          {
+            "id": "07dc0d2e3ca5d8c9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "bc31fad381e57a93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d837ace1479720ec",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-custom-frames:Open Google Calendar": false,
+      "map-of-content:Update Map of Content": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "61425f7677308277",
+  "lastOpenFiles": [
+    "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes/2.4.1.Archive(2023-05-01)/lettre Teodora.md",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes/2.4.1.Archive(2023-05-01)/2023-05-04.md",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes/2.4.1.Archive(2023-05-01)/2023-05-03.md",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes/2.4.1.Archive(2023-05-01)/2023-05-02.md",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes/2.4.1.Archive(2023-05-01)/2023-05-01.md",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes/2.4.1.Archive(2023-05-01)/2023-04-30.md",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes/2.4.1.Archive(2023-05-01)/2023-04-29.md",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes/2.4.1.Archive(2023-05-01)/2023-04-28.md",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes/2.4.1.Archive(2023-05-01)/2023-04-27.md",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes/2.4.1.Archive(2023-05-01)/2023-04-24.md",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes/2.4.1.Archive(2023-05-01)/2023-04-22.md",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes/2.4.1.Archive(2023-05-01)/2023-04-21.md",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes/2.4.1.Archive(2023-05-01)/2023-04-20.md",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes/2.4.1.Archive(2023-05-01)/2023-04-19.md",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes/2.4.1.Archive(2023-05-01)/2023-04-14.md",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes/2.4.1.Archive(2023-05-01)/2023-04-01.md",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes/2.4.1.Archive(2023-05-01)/2023-03-31.md",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes/2.4.1.Archive(2023-05-01)/2023-03-29.md",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes/2.4.1.Archive(2023-05-01)/2023-03-28.md",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes/2.4.1.Archive(2023-05-01)/2023-03-21.md",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes/2.4.1.Archive(2023-05-01)/2023-03-20.md",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes/2.4.1.Archive(2023-05-01)/2023-03-19.md",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes/2.4.1.Archive(2023-05-01)/2023-03-17.md",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes/2.4.1.Archive(2023-05-01)/2023-03-16.md",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes/2.4.1.Archive(2023-05-01)/2023-03-15.md",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes/2.4.1.Archive(2023-05-01)/2023-03-14.md",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes/2.4.1.Archive(2023-05-01)",
+    "Vault/Projets/Attachement/Reglement reporters d'espoirs (partie interressante).png",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes",
+    "Vault/Projets/Projets-reporters_d'espoirs",
+    "Vault/Projets/Attachement",
+    "Vault/2.1.Canvas/Untitled.canvas",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes",
+    "Vault/2.3.Excalidraw",
+    "Vault/Projets",
+    "Vault/2.1.Canvas",
+    "Vault/2.0.Plugins",
+    "Vault/0.Home",
+    "Vault"
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "db7cdbe384a8619d",
+    "type": "split",
+    "children": [
+      {
+        "id": "98c146e026ff6de9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a04cd31ce396cf15",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/0.Home/0.Home.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "c5efc9b7a02b4056",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes/(2023-05-11).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7ee1c2f4b692442",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "54ae2e57b09cc375",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#diver/expressions",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "efae1ed8468679de",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "19a96780d6730935",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      },
+      {
+        "id": "85bb7d43f3678892",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "1a476c5f0d1919bb",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "right": {
+    "id": "3809c95905c7092b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9d9d503e155df9ac",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes/(2023-05-11).md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d56c4d0ed1f9e86c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes/(2023-05-11).md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "cdb2a673f8260936",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes/(2023-05-11).md"
+          }
+        }
+      },
+      {
+        "id": "844b9f7d86b51890",
+        "type": "leaf",
+        "state": {
+          "type": "map-of-content",
+          "state": {}
+        }
+      },
+      {
+        "id": "fbf7f62eb5e04e8a",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "map-of-content:Update Map of Content": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "c5efc9b7a02b4056",
+  "lastOpenFiles": [
+    "Vault/0.Home/0.Home.md",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes/(2023-05-11).md",
+    "z-Projet=Avant ma dernière année de minorité/Origin.md",
+    "z-Projet=Avant ma dernière année de minorité",
+    "Vault/0.Home/Informaton<-Input.md",
+    "Vault/0.Home/Comunicare_eficienta-Collegium-ed_IV.md",
+    "Vault/0.Home/School.md",
+    "Vault/0.Home/Les_eleves_Nice_en_Roumanie<-Eras(2023-05-09_19_36).md",
+    "Vault/0.Home/Erasmus.md",
+    "Vault/0.Home/(2023-05-08_22_09)Info-education_Ro-Fr.md",
+    "Vault/2.1.Canvas/Untitled.canvas",
+    "RAM",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes/(2023-05-07).md",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes/(2023-05-06).md",
+    "Fast Notes",
+    "0-Vault/Home.md",
+    "0-Vault",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes/(2023-05-05).md",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.5.Yearly_Notes",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.4.Seasonly_Notes",
+    "Vault/2.0.Plugins",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.3.Montly_Notes",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes",
+    "Vault/2.1.Canvas",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes/2.4.1.Archive(2023-05-01)/2023-05-04.md",
+    "Untitled.md",
+    "VAULTS/Me/Personnes/Teodora/0-Teodora-(Human).md",
+    "VAULTS/Book/mic dejun cu Seneca.md",
+    "VAULTS/Book/Index.md",
+    "VAULTS/Academic/Mobilité Erasmus/Preparation/Folklore Roumain.md",
+    "0-Vault/distraction-list.md",
+    "0-Vault/rendez-vous(Notion_de).md",
+    "3.2- Canvas/Lettre T.canvas",
+    "0-Vault/Untitled.md",
+    "0-Vault/Ro_Platon_Banchetul.md",
+    "Daily Notes/Untitled.canvas",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes/2.4.1.Archive(2023-05-01)/lettre Teodora.md",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes/2.4.1.Archive(2023-05-01)/2023-05-03.md",
+    "Vault/2.0.Plugins/2.4.Periodic_Notes/2.4.1.Daily_Notes/2.4.1.Archive(2023-05-01)/2023-05-02.md",
+    "0-Vault/Dialogue<-Teodora.canvas",
+    "Vaults/Vault 21/Vault 21/Website Creation Pricing.canvas",
+    "Vaults/Vault 21/Vault 21/Idea Structure.canvas",
+    "0-Vault/Drawing 2023-04-28 22.53.17.excalidraw.png",
+    "0-Vault/Canevas-Réflexion.canvas",
+    "Vault/distraction-list.canvas",
+    "0-Vault/DELF_B2_Production_Orale.canvas",
+    "Daily Notes/share.jpg"
+  ]
+}

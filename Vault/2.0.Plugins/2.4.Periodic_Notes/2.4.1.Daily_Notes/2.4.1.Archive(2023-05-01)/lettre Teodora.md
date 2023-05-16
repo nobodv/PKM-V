@@ -1,0 +1,3 @@
+- (2023-04-23_01_53) Tu es la seule personne proche (littéralement) avec qui je peux communiquer librement en mes trois langues, et je remercie de m'écouter
+- La douleur de me sentir comme un imposteur en gardant mes sentiments direct pour encore un peu plus.
+- Am început-o dintr-o insomnie și mi-a devenit o domnie

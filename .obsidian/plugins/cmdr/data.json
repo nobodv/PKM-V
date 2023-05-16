@@ -1,0 +1,92 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [
+    {
+      "id": "editor:save-file",
+      "icon": "save",
+      "name": "Save current file",
+      "mode": "any"
+    },
+    {
+      "id": "editor:copy",
+      "icon": "lucide-copy",
+      "name": "Copy",
+      "mode": "any"
+    }
+  ],
+  "fileMenu": [
+    {
+      "id": "canvas:new-file",
+      "icon": "lucide-layout-dashboard",
+      "name": "Canvas: Create new canvas",
+      "mode": "any"
+    },
+    {
+      "id": "workspace:close",
+      "icon": "lucide-x",
+      "name": "Close current tab",
+      "mode": "any"
+    }
+  ],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "file-explorer:new-file"
+        },
+        {
+          "action": 0,
+          "commandId": "insert-template"
+        }
+      ],
+      "name": "New note Inbox ID",
+      "icon": "star",
+      "startup": false
+    }
+  ],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 2,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": true,
+    "mappedIcons": [
+      {
+        "commandID": "obsidian-git:push",
+        "iconID": "archive"
+      },
+      {
+        "commandID": "obsidian-timestamper:obsidian-custom-timestamp",
+        "iconID": "award"
+      },
+      {
+        "commandID": "editor:save-file",
+        "iconID": "save"
+      },
+      {
+        "commandID": "obsidian-timestamper:obsidian-fast-datestamp",
+        "iconID": "alarm-check"
+      },
+      {
+        "commandID": "obsidian-timestamper:obsidian-fast-timestamp",
+        "iconID": "alarm-clock"
+      }
+    ],
+    "tooltips": false,
+    "heightOffset": 25
+  }
+}
